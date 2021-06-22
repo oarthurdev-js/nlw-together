@@ -1,2 +1,4 @@
 Application/node_modules
 Application/yarn.lock
+node_modules
+.env
