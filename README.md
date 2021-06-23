@@ -1,4 +1,4 @@
-# NLW Valoriza
+# BR Brother Rating
 
 ## Regras
 
