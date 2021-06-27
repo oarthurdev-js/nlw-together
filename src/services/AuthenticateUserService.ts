@@ -1,5 +1,4 @@
 import { getCustomRepository } from "typeorm"
-
 import { compare } from "bcryptjs"
 import { UserRepositories } from "../repositories/UserRepositories"
 import { sign } from "jsonwebtoken"
